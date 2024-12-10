@@ -1,0 +1,30 @@
+Tipos primitivos escalares:
+    String = "Matheus"
+    Int ou Integer = 24
+    Float, Double ou Real(Real somente em versões antes da 7) = 106.2
+    Bool ou Boolean = true ou false
+
+    10 exemplos:
+    "RJ" = String
+    3.1415 = Double
+    17 = Int
+    true = Bool
+    "" = String
+    -19 = Int
+    "false" = String
+    0x1A = Int (Hexadecimal)
+    3e2 = Double (3x10²)
+    "1024" = String
+
+Tipos primitivos compostos:
+    Array = ["Matheus", 24, 1.83]
+    Object = class Pessoa {
+                private string $nome;
+            }
+            $p = new Pessoa;
+
+Tipos primitivos especiais:
+    Null
+    Resource
+    Callabe
+    Mixed
